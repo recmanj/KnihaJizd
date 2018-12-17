@@ -24,9 +24,10 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/title_activity_main" />
-        <activity android:name=".BookVehicleActivity"
-                  android:parentActivityName=".MainActivity">
-        </activity>
+        <activity
+            android:name=".BookVehicleActivity"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".TripActivity"></activity>
     </application>
 
 </manifest>
