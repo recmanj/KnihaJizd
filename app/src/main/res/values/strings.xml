@@ -8,4 +8,5 @@
     <string name="title_activity_main">Main Activity</string>
     <string name="dashboard_title">Přehled</string>
     <string name="vehicles_title">Vozy</string>
+    <string name="book_vehicle_title">Zamluvit si vůz</string>
 </resources>
