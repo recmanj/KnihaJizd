@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">KnihaJizd</string>
+    <string name="title">Kniha jízd</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Heslo</string>
+    <string name="login_button">Přihlásit se</string>
+    <string name="register">Nemáte účet? Zaregistrujte se zde.</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="dashboard_title">Přehled</string>
+    <string name="vehicles_title">Vozy</string>
 </resources>
