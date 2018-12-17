@@ -9,4 +9,5 @@
     <string name="dashboard_title">Přehled</string>
     <string name="vehicles_title">Vozy</string>
     <string name="book_vehicle_title">Zamluvit si vůz</string>
+    <string name="search_title">Vyhledat</string>
 </resources>
